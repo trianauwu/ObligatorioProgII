@@ -76,7 +76,7 @@ Incluído en la carpeta del proyecto.
 - **Entidad Cancion
   - Memoria RAM consumida: 480 B
 - **Entidad Artista
-  - Memoria RAM consumida: 168 MB
+  - Memoria RAM consumida: 168 B
 - **Entidad Spotify
   - Memoria RAM consumida: Depende del número de canciones y artistas cargados desde el CSV.  
 - **Entidad Central Operativa - Memoria RAM consumida:
